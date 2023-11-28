@@ -1,5 +1,5 @@
 /* Normalise css */
-html,body{
+html,body{            /*It defines the body of the document and contaoins all the cont4ens of the HTML document*/
     background-color: #141414;
     padding:0;
     margin: 0;
@@ -18,7 +18,7 @@ html,body{
 }
 
 /* Header Css */
-header{
+header{     /*define a global site header, described as a banner in the accessibility tree*/
     background-color: transparent;
     position: fixed;
     z-index: 100;
